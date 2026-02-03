@@ -1,0 +1,6 @@
+[ibm]
+name=ibm
+baseurl=http://public.dhe.ibm.com/software/ibmi/products/pase/rpms/repo
+enabled=1
+gpgcheck=0
+
